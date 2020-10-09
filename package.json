@@ -1,0 +1,15 @@
+{
+  "name": "midtermApp",
+  "version": "1.0.0",
+  "description": "This app displays a cute picture of a hamster",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Keeton",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.2"
+  }
+}
